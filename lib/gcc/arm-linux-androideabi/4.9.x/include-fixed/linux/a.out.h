@@ -2,7 +2,7 @@
 
     It has been auto-edited by fixincludes from:
 
-	"/tmp/8dd6ed4eb553ca05819d9aa25b1cb1fb/sysroot/usr/include/linux/a.out.h"
+	"/tmp/b72757077e6ba599172458a1fbafb01b/sysroot/usr/include/linux/a.out.h"
 
     This had to be done to correct non-standard usages in the
     original, manufacturer supplied header file.  */
